@@ -1,0 +1,258 @@
+[
+  {
+    "final_cartao": "7437",
+    "totalBRL": 392.28,
+    "totalUSD": 0.0,
+    "tipos_lancamento": [
+      {
+        "tipo": "Pagamento e Demais Cr\u00e9ditos",
+        "lancamentos": [
+          {
+            "tipo": "",
+            "data": "20/12/2024",
+            "estabelecimento": "DEB AUTOM DE FATURA EM C/",
+            "parcelas": "",
+            "valorBRL": -671.74,
+            "valorUSD": 0.0
+          }
+        ]
+      },
+      {
+        "tipo": "Parcelamentos",
+        "lancamentos": [
+          {
+            "tipo": "3",
+            "data": "09/01/2024",
+            "estabelecimento": "PAG*RENNER",
+            "parcelas": "01/03",
+            "valorBRL": 79.9,
+            "valorUSD": 0.0
+          }
+        ]
+      },
+      {
+        "tipo": "Despesas",
+        "lancamentos": [
+          {
+            "tipo": "3",
+            "data": "16/12/2024",
+            "estabelecimento": "METRO RJ",
+            "parcelas": "",
+            "valorBRL": 6.9,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "3",
+            "data": "21/12/2024",
+            "estabelecimento": "METRO RJ",
+            "parcelas": "",
+            "valorBRL": 6.9,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "3",
+            "data": "27/12/2024",
+            "estabelecimento": "METRO RJ",
+            "parcelas": "",
+            "valorBRL": 6.9,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "3",
+            "data": "02/01/2024",
+            "estabelecimento": "RAIA 2306",
+            "parcelas": "",
+            "valorBRL": 7.99,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "3",
+            "data": "06/01/2024",
+            "estabelecimento": "BREWTECO LEBLON",
+            "parcelas": "",
+            "valorBRL": 90.0,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "3",
+            "data": "09/01/2024",
+            "estabelecimento": "PAG*RENNER",
+            "parcelas": "",
+            "valorBRL": 99.9,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "3",
+            "data": "09/01/2024",
+            "estabelecimento": "ZAZA BISTRO TRAVESSA",
+            "parcelas": "",
+            "valorBRL": 93.79,
+            "valorUSD": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "final_cartao": "2839",
+    "totalBRL": 0.0,
+    "totalUSD": 0.0,
+    "tipos_lancamento": [
+      {
+        "tipo": "Despesas",
+        "lancamentos": [
+          {
+            "tipo": "",
+            "data": "15/01/2024",
+            "estabelecimento": "ANUIDADE DIFERENCIADA",
+            "parcelas": "09/12",
+            "valorBRL": 0.0,
+            "valorUSD": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "final_cartao": "6522",
+    "totalBRL": 3363.96,
+    "totalUSD": 0.0,
+    "tipos_lancamento": [
+      {
+        "tipo": "Pagamento e Demais Cr\u00e9ditos",
+        "lancamentos": [
+          {
+            "tipo": "",
+            "data": "23/11/2024",
+            "estabelecimento": "MERCADOLIVRE*MERCADOL",
+            "parcelas": "",
+            "valorBRL": -0.04,
+            "valorUSD": 0.0
+          }
+        ]
+      },
+      {
+        "tipo": "Parcelamentos",
+        "lancamentos": [
+          {
+            "tipo": "",
+            "data": "23/11/2024",
+            "estabelecimento": "MERCADOLIVRE*MERCADOL",
+            "parcelas": "02/12",
+            "valorBRL": 261.62,
+            "valorUSD": 0.0
+          }
+        ]
+      },
+      {
+        "tipo": "Despesas",
+        "lancamentos": [
+          {
+            "tipo": "",
+            "data": "12/12/2024",
+            "estabelecimento": "SUA ACADEMIA",
+            "parcelas": "",
+            "valorBRL": 129.9,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "",
+            "data": "13/12/2024",
+            "estabelecimento": "MERCADOLIVRE*ZEROTREZ",
+            "parcelas": "",
+            "valorBRL": 79.97,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "",
+            "data": "13/12/2024",
+            "estabelecimento": "MERCADOLIVRE*MERCADOL",
+            "parcelas": "",
+            "valorBRL": 2209.0,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "",
+            "data": "15/12/2024",
+            "estabelecimento": "GOOGLE YOUTUBEPREMIUM",
+            "parcelas": "",
+            "valorBRL": 13.9,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "",
+            "data": "22/12/2024",
+            "estabelecimento": "MERCADOLIVRE*MERCADOL",
+            "parcelas": "",
+            "valorBRL": 199.75,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "2",
+            "data": "29/12/2024",
+            "estabelecimento": "DM*UDEMY",
+            "parcelas": "",
+            "valorBRL": 27.9,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "",
+            "data": "03/01/2024",
+            "estabelecimento": "AMAZON AWS SERVICOS BR",
+            "parcelas": "",
+            "valorBRL": 53.52,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "",
+            "data": "05/01/2024",
+            "estabelecimento": "IFD*REAL OFF ME COMERC",
+            "parcelas": "",
+            "valorBRL": 42.57,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "",
+            "data": "07/01/2024",
+            "estabelecimento": "TEMBICI",
+            "parcelas": "",
+            "valorBRL": 8.0,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "",
+            "data": "07/01/2024",
+            "estabelecimento": "TEMBICI",
+            "parcelas": "",
+            "valorBRL": 5.9,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "",
+            "data": "09/01/2024",
+            "estabelecimento": "IFD*CENCOSUD BRASIL CO",
+            "parcelas": "",
+            "valorBRL": 148.56,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "2",
+            "data": "09/01/2024",
+            "estabelecimento": "MP *GUANABARA",
+            "parcelas": "",
+            "valorBRL": 53.47,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "",
+            "data": "10/01/2024",
+            "estabelecimento": "SUA ACADEMIA",
+            "parcelas": "",
+            "valorBRL": 129.9,
+            "valorUSD": 0.0
+          }
+        ]
+      }
+    ]
+  }
+]

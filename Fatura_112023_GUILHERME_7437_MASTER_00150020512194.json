@@ -1,0 +1,87 @@
+[
+  {
+    "final_cartao": "7437",
+    "totalBRL": 42.6,
+    "totalUSD": 0.0,
+    "tipos_lancamento": [
+      {
+        "tipo": "Pagamento e Demais Cr\u00e9ditos",
+        "lancamentos": [
+          {
+            "tipo": "",
+            "data": "20/10/2023",
+            "estabelecimento": "DEB AUTOM DE FATURA EM C/",
+            "parcelas": "",
+            "valorBRL": -98.13,
+            "valorUSD": 0.0
+          }
+        ]
+      },
+      {
+        "tipo": "Despesas",
+        "lancamentos": [
+          {
+            "tipo": "3",
+            "data": "22/10/2023",
+            "estabelecimento": "BROOKS RECREIO",
+            "parcelas": "",
+            "valorBRL": 15.0,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "3",
+            "data": "04/11/2023",
+            "estabelecimento": "METRO RJ",
+            "parcelas": "",
+            "valorBRL": 6.9,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "3",
+            "data": "04/11/2023",
+            "estabelecimento": "METRO RJ",
+            "parcelas": "",
+            "valorBRL": 6.9,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "3",
+            "data": "08/11/2023",
+            "estabelecimento": "METRO RJ",
+            "parcelas": "",
+            "valorBRL": 6.9,
+            "valorUSD": 0.0
+          },
+          {
+            "tipo": "3",
+            "data": "08/11/2023",
+            "estabelecimento": "METRO RJ",
+            "parcelas": "",
+            "valorBRL": 6.9,
+            "valorUSD": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "final_cartao": "2839",
+    "totalBRL": 22.0,
+    "totalUSD": 0.0,
+    "tipos_lancamento": [
+      {
+        "tipo": "Despesas",
+        "lancamentos": [
+          {
+            "tipo": "",
+            "data": "10/11/2023",
+            "estabelecimento": "ANUIDADE DIFERENCIADA",
+            "parcelas": "07/12",
+            "valorBRL": 22.0,
+            "valorUSD": 0.0
+          }
+        ]
+      }
+    ]
+  }
+]
